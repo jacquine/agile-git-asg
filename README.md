@@ -9,3 +9,5 @@ you don't have to be a part of Google to submit your own experiments, and this i
 
 i also love the heavy usage of the word 'experiment' because it frames the place in a playful way, and that is essentially what i feel like tech should be, people should not be afraid to create new things, or to make mistakes
 
+###### comments
+Sylvia Ji’s comment: this is a really cool website! I tried the [Teachable Machine](https://experiments.withgoogle.com/teachable-machine) experiment and it was amazing how machine learning models can be created without writing a single line of code. I also like the [Envelope](http://specialprojects.studio/project/envelope/) project in the [Digital Wellbeing Experiments](https://experiments.withgoogle.com/collection/digitalwellbeing) collection which aims to help people reduce screen time in a simple way.
